@@ -1,0 +1,48 @@
+D:\IT Step\MY PROJECTS\RabWPF\RabWPF\obj\Debug\App.g.cs
+D:\IT Step\MY PROJECTS\RabWPF\RabWPF\obj\Debug\RabWPF_MarkupCompile.cache
+D:\IT Step\MY PROJECTS\RabWPF\RabWPF\obj\Debug\RabWPF_MarkupCompile.lref
+D:\IT Step\MY PROJECTS\RabWPF\RabWPF\bin\Debug\RabWPF.exe.config
+D:\IT Step\MY PROJECTS\RabWPF\RabWPF\bin\Debug\RabWPF.exe
+D:\IT Step\MY PROJECTS\RabWPF\RabWPF\bin\Debug\RabWPF.pdb
+D:\IT Step\MY PROJECTS\RabWPF\RabWPF\bin\Debug\ControlzEx.dll
+D:\IT Step\MY PROJECTS\RabWPF\RabWPF\bin\Debug\MahApps.Metro.dll
+D:\IT Step\MY PROJECTS\RabWPF\RabWPF\bin\Debug\System.Windows.Interactivity.dll
+D:\IT Step\MY PROJECTS\RabWPF\RabWPF\bin\Debug\ControlzEx.pdb
+D:\IT Step\MY PROJECTS\RabWPF\RabWPF\bin\Debug\MahApps.Metro.pdb
+D:\IT Step\MY PROJECTS\RabWPF\RabWPF\bin\Debug\MahApps.Metro.xml
+D:\IT Step\MY PROJECTS\RabWPF\RabWPF\obj\Debug\MainWindow.g.cs
+D:\IT Step\MY PROJECTS\RabWPF\RabWPF\obj\Debug\App.baml
+D:\IT Step\MY PROJECTS\RabWPF\RabWPF\obj\Debug\MainWindow.baml
+D:\IT Step\MY PROJECTS\RabWPF\RabWPF\obj\Debug\RabWPF.g.resources
+D:\IT Step\MY PROJECTS\RabWPF\RabWPF\obj\Debug\RabWPF.Properties.Resources.resources
+D:\IT Step\MY PROJECTS\RabWPF\RabWPF\obj\Debug\RabWPF.csproj.GenerateResource.Cache
+D:\IT Step\MY PROJECTS\RabWPF\RabWPF\obj\Debug\RabWPF.csproj.CoreCompileInputs.cache
+D:\IT Step\MY PROJECTS\RabWPF\RabWPF\obj\Debug\RabWPF.exe
+D:\IT Step\MY PROJECTS\RabWPF\RabWPF\obj\Debug\RabWPF.pdb
+D:\IT Step\MY PROJECTS\RabWPF\RabWPF\obj\Debug\RabWPF.csproj.ResolveComReference.cache
+D:\IT Step\MY PROJECTS\RabWPF\RabWPF\obj\Debug\RabWPF.csproj.CopyComplete
+D:\IT Step\MY PROJECTS\RabWPF\RabWPF\obj\Debug\RabWPF.csprojAssemblyReference.cache
+D:\IT Step\C#\RabWPF\RabWPF\bin\Debug\RabWPF.exe.config
+D:\IT Step\C#\RabWPF\RabWPF\bin\Debug\RabWPF.exe
+D:\IT Step\C#\RabWPF\RabWPF\bin\Debug\RabWPF.pdb
+D:\IT Step\C#\RabWPF\RabWPF\bin\Debug\ControlzEx.dll
+D:\IT Step\C#\RabWPF\RabWPF\bin\Debug\MahApps.Metro.dll
+D:\IT Step\C#\RabWPF\RabWPF\bin\Debug\System.Windows.Interactivity.dll
+D:\IT Step\C#\RabWPF\RabWPF\bin\Debug\ControlzEx.pdb
+D:\IT Step\C#\RabWPF\RabWPF\bin\Debug\MahApps.Metro.pdb
+D:\IT Step\C#\RabWPF\RabWPF\bin\Debug\MahApps.Metro.xml
+D:\IT Step\C#\RabWPF\RabWPF\obj\Debug\RabWPF.csprojAssemblyReference.cache
+D:\IT Step\C#\RabWPF\RabWPF\obj\Debug\RabWPF.csproj.ResolveComReference.cache
+D:\IT Step\C#\RabWPF\RabWPF\obj\Debug\MainWindow.g.cs
+D:\IT Step\C#\RabWPF\RabWPF\obj\Debug\App.g.cs
+D:\IT Step\C#\RabWPF\RabWPF\obj\Debug\RabWPF_MarkupCompile.cache
+D:\IT Step\C#\RabWPF\RabWPF\obj\Debug\RabWPF_MarkupCompile.lref
+D:\IT Step\C#\RabWPF\RabWPF\obj\Debug\App.baml
+D:\IT Step\C#\RabWPF\RabWPF\obj\Debug\MainWindow.baml
+D:\IT Step\C#\RabWPF\RabWPF\obj\Debug\RabWPF.g.resources
+D:\IT Step\C#\RabWPF\RabWPF\obj\Debug\RabWPF.Properties.Resources.resources
+D:\IT Step\C#\RabWPF\RabWPF\obj\Debug\RabWPF.csproj.GenerateResource.cache
+D:\IT Step\C#\RabWPF\RabWPF\obj\Debug\RabWPF.csproj.CoreCompileInputs.cache
+D:\IT Step\C#\RabWPF\RabWPF\obj\Debug\RabWPF.csproj.CopyComplete
+D:\IT Step\C#\RabWPF\RabWPF\obj\Debug\RabWPF.exe
+D:\IT Step\C#\RabWPF\RabWPF\obj\Debug\RabWPF.pdb
